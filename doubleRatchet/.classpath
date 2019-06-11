@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/commons-codec-1.11-bin/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/commons-codec-1.11-bin/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/commons-codec-1.11-bin/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/commons-codec-1.11-bin/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/commons-codec-1.11-bin/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/jar/curve25519-java-0.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/jar/bytes-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/jar/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grace/Desktop/jar/commons-lang-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
